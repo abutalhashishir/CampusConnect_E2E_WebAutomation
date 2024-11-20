@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-27T15:47:10 BDT" name="Suite" finished-at="2023-11-27T15:52:04 BDT" duration-ms="293357">
+    <groups>
+    </groups>
+    <test started-at="2023-11-27T15:47:10 BDT" name="Test" finished-at="2023-11-27T15:52:04 BDT" duration-ms="293357">
+      <class name="campusConnect.testcases.VisaAssistanceTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:campusConnect.testcases.VisaAssistanceTest@175c2241]" started-at="2023-11-27T15:49:07 BDT" name="setup" finished-at="2023-11-27T15:50:17 BDT" duration-ms="70312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="visaAssistanceProductAddToCartTest()[pri:1, instance:campusConnect.testcases.VisaAssistanceTest@175c2241]" started-at="2023-11-27T15:50:17 BDT" name="visaAssistanceProductAddToCartTest" finished-at="2023-11-27T15:50:48 BDT" duration-ms="31188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- visaAssistanceProductAddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:campusConnect.testcases.VisaAssistanceTest@175c2241]" started-at="2023-11-27T15:50:48 BDT" name="tearDown" finished-at="2023-11-27T15:50:49 BDT" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- campusConnect.testcases.VisaAssistanceTest -->
+      <class name="campusConnect.testcases.PreI20Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:campusConnect.testcases.PreI20Test@128d2484]" started-at="2023-11-27T15:47:11 BDT" name="setup" finished-at="2023-11-27T15:47:32 BDT" duration-ms="21391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="preI20ProductAddToCartTest()[pri:1, instance:campusConnect.testcases.PreI20Test@128d2484]" started-at="2023-11-27T15:47:32 BDT" name="preI20ProductAddToCartTest" finished-at="2023-11-27T15:48:06 BDT" duration-ms="33939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preI20ProductAddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:campusConnect.testcases.PreI20Test@128d2484]" started-at="2023-11-27T15:48:06 BDT" name="tearDown" finished-at="2023-11-27T15:48:07 BDT" duration-ms="1185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- campusConnect.testcases.PreI20Test -->
+      <class name="campusConnect.testcases.StrategyTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:campusConnect.testcases.StrategyTest@5bf0d49]" started-at="2023-11-27T15:50:49 BDT" name="setup" finished-at="2023-11-27T15:51:32 BDT" duration-ms="42840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="strategyProductAddToCartTest()[pri:1, instance:campusConnect.testcases.StrategyTest@5bf0d49]" started-at="2023-11-27T15:51:32 BDT" name="strategyProductAddToCartTest" finished-at="2023-11-27T15:52:03 BDT" duration-ms="30760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- strategyProductAddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:campusConnect.testcases.StrategyTest@5bf0d49]" started-at="2023-11-27T15:52:03 BDT" name="tearDown" finished-at="2023-11-27T15:52:04 BDT" duration-ms="1013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- campusConnect.testcases.StrategyTest -->
+      <class name="campusConnect.testcases.postI20Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:campusConnect.testcases.postI20Test@4afcd809]" started-at="2023-11-27T15:48:07 BDT" name="setup" finished-at="2023-11-27T15:48:33 BDT" duration-ms="25690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="postI20ProductAddToCartTest()[pri:1, instance:campusConnect.testcases.postI20Test@4afcd809]" started-at="2023-11-27T15:48:33 BDT" name="postI20ProductAddToCartTest" finished-at="2023-11-27T15:49:05 BDT" duration-ms="32542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postI20ProductAddToCartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:campusConnect.testcases.postI20Test@4afcd809]" started-at="2023-11-27T15:49:05 BDT" name="tearDown" finished-at="2023-11-27T15:49:07 BDT" duration-ms="1104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- campusConnect.testcases.postI20Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

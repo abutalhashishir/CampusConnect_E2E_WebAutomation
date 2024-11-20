@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="campusConnect.listeners.MyListeners"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="campusConnect.testcases.HomePageUrlAndButtonTest">
+        <methods>
+          <include name="MyCartButton"/>
+          <include name="loginButton"/>
+          <include name="visaAssistButton"/>
+          <include name="termsofUseButton"/>
+          <include name="coockiePolicyButton"/>
+          <include name="preI20AllServicesButton"/>
+          <include name="adhocButton"/>
+          <include name="paymentPolicy"/>
+          <include name="setup"/>
+          <include name="cancellationRefundPolicyButton"/>
+          <include name="strategyButton"/>
+          <include name="foxUniversityButton"/>
+          <include name="posti20AllServicesButton"/>
+          <include name="securityPolicyButton"/>
+          <include name="posti20Button"/>
+          <include name="signupButton"/>
+          <include name="strategyServicesAllServicesButton"/>
+          <include name="tearDown"/>
+          <include name="donotSellMyInformationButton"/>
+          <include name="privacyPolicyButton"/>
+          <include name="disputeRefundPolicyButton"/>
+          <include name="visaAssistAllServicesButton"/>
+          <include name="preI20Button"/>
+        </methods>
+      </class> <!-- campusConnect.testcases.HomePageUrlAndButtonTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
